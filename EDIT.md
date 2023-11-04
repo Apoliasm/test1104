@@ -1,4 +1,4 @@
 hello world
 
-|AAAA|BBBBB|CCCCCC
+|AAAA|BBBBB|
 updated in newb|
